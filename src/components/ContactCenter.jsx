@@ -49,7 +49,7 @@ const ContactCenter = ({ onBack }) => {
     {
       id: 'github',
       label: 'GitHub',
-      value: '@alexchen',
+      value: '@DeepakZamnani',
       icon: Github,
       href: personalInfo.contact.github,
       color: '#FF00FF',
@@ -57,7 +57,7 @@ const ContactCenter = ({ onBack }) => {
     {
       id: 'linkedin',
       label: 'LinkedIn',
-      value: '/in/alexchen',
+      value: '/in/deepak-zamnani',
       icon: Linkedin,
       href: personalInfo.contact.linkedin,
       color: '#8B00FF',
@@ -65,7 +65,7 @@ const ContactCenter = ({ onBack }) => {
     {
       id: 'twitter',
       label: 'Twitter',
-      value: '@alexchen_dev',
+      value: '@DeepakZamnani',
       icon: Twitter,
       href: personalInfo.contact.twitter,
       color: '#008080',

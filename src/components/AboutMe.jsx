@@ -327,9 +327,9 @@ const AboutMe = ({ onBack }) => {
               className="grid grid-cols-2 gap-4"
             >
               {[
-                { label: 'Projects Completed', value: '50+', color: '#00FFFF' },
+                { label: 'Projects Completed', value: '20+', color: '#00FFFF' },
                 { label: 'Technologies Mastered', value: '25+', color: '#FF00FF' },
-                { label: 'Years of Experience', value: '5+', color: '#8B00FF' },
+                { label: 'Years of Experience', value: '1+', color: '#8B00FF' },
                 { label: 'Coffee Consumed', value: '∞', color: '#008080' },
               ].map((stat, index) => (
                 <motion.div

@@ -47,6 +47,8 @@ Optimized for all devices with a mobile-first approach, ensuring the sci-fi expe
 
 **Built with 💜 and lots of neon**
 
- [LinkedIn](https://neural-interfacee-portfolio.vercel.app/)) •  [LinkedIn]([https://linkedin.com/in/Deepak](https://www.linkedin.com/in/deepak-zamnani-9958972a2/)) • [GitHub](https://github.com/DeepakZamnani)
+
+### The data added is dummy, you can change it according to you
+ [Portfolio](https://neural-interfacee-portfolio.vercel.app/) •  [LinkedIn](https://linkedin.com/in/Deepak](https://www.linkedin.com/in/deepak-zamnani-9958972a2/)) • [GitHub](https://github.com/DeepakZamnani)
 
 </div>

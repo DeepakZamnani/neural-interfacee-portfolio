@@ -1,0 +1,61 @@
+/* Custom App styles for sci-fi portfolio */
+.App {
+  text-align: left;
+  background: #000000;
+  min-height: 100vh;
+  color: #ffffff;
+}
+
+/* Remove default margins and ensure full coverage */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  overflow-x: hidden;
+}
+
+/* Custom cursor for sci-fi feel */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Ensure images don't break layout */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Custom glow animations */
+@keyframes glow-pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.glow-animation {
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+/* Backdrop blur support */
+.backdrop-blur-sm {
+  backdrop-filter: blur(4px);
+}
+
+.backdrop-blur-md {
+  backdrop-filter: blur(12px);
+}
+
+/* Text gradient support for older browsers */
+.text-gradient {
+  background: linear-gradient(45deg, #00FFFF, #FF00FF, #8B00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

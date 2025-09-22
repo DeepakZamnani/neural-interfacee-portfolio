@@ -16,24 +16,17 @@ A portfolio that transforms your typical showcase into an **immersive sci-fi exp
 - **🔮 Interactive Project Modals** - Expandable cards with tech stacks and links
 - **🌟 Neon-Powered UI** - Glowing edges, pulsing animations, and sci-fi aesthetics
 
-### 🛠️ **Tech Stack**
-```
-Frontend: HTML5 • CSS3 • Vanilla JavaScript
-Design: Custom CSS Grid • Flexbox • CSS Animations  
-Fonts: Orbitron • Exo • Rajdhani
-Colors: Neon Cyan • Magenta • Purple • Teal
-```
+
 
 ### 🎨 **Visual Highlights**
 
 - **Dark gradient backgrounds** with animated nebula particles
 - **Glowing neon accents** on hover and focus states  
-- **Smooth carousel navigation** inspired by Netflix's UX
+- **Smooth carousel navigation** 
 - **Futuristic contact forms** designed like control center panels
 - **Micro-interactions** with hover sounds and card animations
 
-### 🌐 **Live Demo**
-[**→ Enter the Nexus**](https://your-portfolio-url.com) 
+
 
 ---
 
@@ -54,6 +47,6 @@ Optimized for all devices with a mobile-first approach, ensuring the sci-fi expe
 
 **Built with 💜 and lots of neon**
 
-[Portfolio](https://your-site.com) • [LinkedIn](https://linkedin.com/in/yourname) • [GitHub](https://github.com/yourusername)
+ [LinkedIn](https://neural-interfacee-portfolio.vercel.app/)) •  [LinkedIn]([https://linkedin.com/in/Deepak](https://www.linkedin.com/in/deepak-zamnani-9958972a2/)) • [GitHub](https://github.com/DeepakZamnani)
 
 </div>
